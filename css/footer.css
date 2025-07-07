@@ -1,0 +1,17 @@
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gainsboro;
+    padding: 20px;
+}
+
+footer p {
+ font-size: 12px;
+}
+
+.corazon {
+height: 15px;
+width: 15px;
+}
+
